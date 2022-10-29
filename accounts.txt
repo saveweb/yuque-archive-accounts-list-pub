@@ -116,6 +116,7 @@ it-coach
 itchina110
 janz
 jaredleechn
+java-s
 jianxu
 jiexuewu
 jinrizuijia-beean
